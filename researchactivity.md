@@ -2,6 +2,8 @@
 layout: index
 title: "Research Activity"
 ---
+<h3>Research and Teaching></h3>
+<hr>
 <h3>Research Activity</h3>
 
 <p style="text-align:left;">
