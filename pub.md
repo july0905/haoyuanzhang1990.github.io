@@ -4,9 +4,9 @@ title: "Publication"
 ---
 
 
-### Publication
+<h2>Publication</h2>
 <hr>
-#### Journal Paper
+<h3> Journal Paper</h3>
 [1] Haoyuan Zhang, D. William R. Marsh, 2017. Generic Bayesian Network Models for Making Maintenance Decisions from Available Data and Expert Knowledge. <i>Proceedings of the Institution of Mechanical Engineers, Part O: Journal of Risk and Reliability</i> (accepted).
    
 <br> &nbsp;
