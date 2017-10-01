@@ -2,6 +2,5 @@
 layout: post
 category: "read"
 title:  "test"
-tags: [阅读,人生]
 ---
 dfadfaf
