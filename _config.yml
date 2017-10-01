@@ -3,15 +3,13 @@ highlighter: pygments
 permalink: /posts/:title.html
 excerpt_separator: "<!-- more -->"
 
-github: panxw
-author: "潘学文"
-email: winfirm#163.com
-name: "潘学文个人博客"
-url: http://www.panxw.com
-domain: www.panxw.com
+author: "Haoyuan Zhang"
+email: haoyuan.zhang@qmul.ac.uk
+name: "Haoyuan Zhang"
+url: haoyuanzhang1990.github.io
 all_categories: [
-["read", "读书笔记","/posts/read.html"], 
-["about", "关于","/about.html"]
+["read", "Research","/posts/read.html"], 
+["about", "About","/about.html"]
 ]
 
 paginate: 3
