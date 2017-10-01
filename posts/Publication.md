@@ -1,4 +1,4 @@
 ---
-layout: category
-category: read
+layout: index
+title: "Research Activities"
 ---
