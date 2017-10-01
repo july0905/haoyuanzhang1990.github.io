@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: defalut
 title: "关于：About"
 ---
 Welcome to visit my blog!
