@@ -1,6 +1,6 @@
 ---
 layout: index
-title: "Research Activity"
+title: "Research and Teaching"
 ---
 <h2>Research and Teaching</h2>
 <hr>
