@@ -9,7 +9,7 @@ name: "Haoyuan Zhang"
 url: haoyuanzhang1990.github.io
 all_categories: [
 ["read", "Publication","pub.html"], 
-["about", "Research Activity","researchactivity.html"]
+["about", "Research and Teaching","randt.html"]
 ]
 
 paginate: 3
