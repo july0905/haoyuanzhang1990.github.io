@@ -1,5 +1,5 @@
 ---
-layout: defalut
+layout: index
 title: "关于：About"
 ---
 Welcome to visit my blog!
