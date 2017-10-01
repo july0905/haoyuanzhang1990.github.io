@@ -2,27 +2,14 @@
 layout: index
 title: "Research Activity"
 ---
-Welcome to visit my blog!
-
-#### 1.Personal Info
-Name: Xuewen Pan(潘学文)  
-Gender: Male  
-City: Wuhan, China  
-Career: Software developer(Android&Linux&Web)  
-
-#### 2.My Links
-Blog: <http://www.panxw.com>  
-GitHub: <https://github.com/panxw>  
-LinkedIn: <http://www.linkedin.com/in/panxw>  
+<h3>Research Activity</h3>
 
 
-#### 3.Contract
-Email: winfirm#163.com  
-QQ: 85902258  
 
-### 4.Domain For Sale
-danbaili.com  
-fangxinyu.com  
-maicaiwa.com  
-babytoycar.com  
-youth168.com  
+<hr>
+<h3>Teaching Assistant/Demonstrator</h3>
+<li>	
+ECS401U – Java Programming</li>
+<li>ECS650/ECS789 - Database Systems</li>
+<li>EBU6402 Enterprise Management</li>
+<li>EBU6606 - Product Development</li>
