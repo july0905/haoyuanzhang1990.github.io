@@ -8,8 +8,8 @@ email: haoyuan.zhang@qmul.ac.uk
 name: "Haoyuan Zhang"
 url: haoyuanzhang1990.github.io
 all_categories: [
-["read", "Research","/posts/read.html"], 
-["about", "About","/about.html"]
+["read", "Publication","/posts/read.html"], 
+["about", "Research Activities","/about.html"]
 ]
 
 paginate: 3
