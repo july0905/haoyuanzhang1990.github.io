@@ -36,3 +36,9 @@ ECS401U – Java Programming</li>
 <li>EBU6402 Enterprise Management</li>
 <li>EBU6606 - Product Development</li>
 </ul>
+
+
+<hr>
+<h3>School Role</h3>
+I am the representative of Risk and Information Management Group (RIM), EECS, QMUL 
+
