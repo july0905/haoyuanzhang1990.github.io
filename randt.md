@@ -39,6 +39,9 @@ ECS401U – Java Programming</li>
 
 
 <hr>
-<h3>School Role</h3>
-I am the representative of Risk and Information Management Group (RIM), EECS, QMUL 
-
+<h3>Other Roles</h3>
+<p style="text-align:left;">
+Ph.D Research Committee Representative<span style="float:right;">21 June 2016 - Present</span>
+<br><a href="esrel2016.org">I am the Ph.D research committee representative for Risk and Information Management Group (RIM), EECS, QMUL 
+</a>
+</p> 
