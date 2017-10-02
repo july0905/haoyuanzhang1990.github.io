@@ -7,19 +7,19 @@ title: "Research and Teaching"
 <h3>Research Activity</h3>
 
 <p style="text-align:left;">
-Rail Research UK Association (RRUKA)<span style="float:right;">05 Nov 2015;  03 Nov 2016</span>
+  <u>Rail Research UK Association (RRUKA)</u><span style="float:right;">05 Nov 2015;  03 Nov 2016</span>
 <br><a href="http://www.rruka.org.uk/events/rruka-annual-conference-2015/">RRUKA Annual Conference 2015</a>, and <a href="http://www.rruka.org.uk/events/rruka-annual-conference-2016/">2016</a>, London, UK
 </p> 
 
 
 <p style="text-align:left;">
-European Safety and Reliability Association<span style="float:right;">25 Sep 2016 - 29 Sep 2016</span>
+  <u>European Safety and Reliability Association</u><span style="float:right;">25 Sep 2016 - 29 Sep 2016</span>
 <br><a href="esrel2016.org">The 26th European Safety and Reliability Conference(ESREL 2016)</a>, Glasgow, UK
 </p> 
 
 
 <p style="text-align:left;">
-Workshop by Isaac Newton Institute, University of Cambridge<span style="float:right;">30 Aug 2016 - 02 Sep 2016</span>
+  <u>Workshop by Isaac Newton Institute, University of Cambridge</u><span style="float:right;">30 Aug 2016 - 02 Sep 2016</span>
 <br><a href="https://www.newton.ac.uk/event/fosw01">The nature of questions arising in court that can be addressed via probability and statistical methods (FOSW01)</a>, Cambridge, UK
 </p> 
 <br>
@@ -41,12 +41,12 @@ ECS401U – Java Programming</li>
 <hr>
 <h3>Other Roles</h3>
 <p style="text-align:left;">
-Ph.D Research Committee Representative<span style="float:right;">21 June 2016 - Present</span>
+  <u>Ph.D Research Committee Representative</u><span style="float:right;">21 June 2016 - Present</span>
 <br>I am the Ph.D research committee representative for Risk and Information Management Group (RIM), EECS, QMUL 
 </p> 
 
 <p style="text-align:left;">
-Liguo Steel Group (HK) Limited<span style="float:right;">01 Jun 2014 - 30 Apr 2015</span>
+  <u>Liguo Steel Group (HK) Limited</u><span style="float:right;">01 Jun 2014 - 30 Apr 2015</span>
 <br>I was a manager trainee, worked on commodity shipping, trading and financing
 </p> 
 
