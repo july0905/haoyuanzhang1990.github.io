@@ -38,15 +38,4 @@ ECS401U – Java Programming</li>
 </ul>
 
 
-<hr>
-<h3>Other Roles</h3>
-<p style="text-align:left;">
-  <u>Ph.D Research Committee Representative</u><span style="float:right;">21 June 2016 - Present</span>
-<br>I am the Ph.D research committee representative for Risk and Information Management Group (RIM), EECS, QMUL 
-</p> 
-
-<p style="text-align:left;">
-  <u>Liguo Steel Group (HK) Limited</u><span style="float:right;">01 Jun 2014 - 30 Apr 2015</span>
-<br>I was a manager trainee, worked on commodity shipping, trading and financing
-</p> 
 
