@@ -14,7 +14,7 @@ title: "Research and Teaching"
 
 <p style="text-align:left;">
   <u>European Safety and Reliability Association</u><span style="float:right;">25 Sep 2016 - 29 Sep 2016</span>
-<br><a href="esrel2016.org">The 26th European Safety and Reliability Conference(ESREL 2016)</a>, Glasgow, UK
+<br><a href="http://esrel2016.org">The 26th European Safety and Reliability Conference(ESREL 2016)</a>, Glasgow, UK
 </p> 
 
 
