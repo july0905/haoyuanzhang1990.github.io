@@ -7,9 +7,9 @@ title: "Publication"
 <h2>Publication</h2>
 <hr>
 <h3> Journal Paper</h3>
-[1] <b>Haoyuan Zhang</b>, D. William R. Marsh, 2017. Generic Bayesian Network Models for Making Maintenance Decisions from Available Data and Expert Knowledge. <i>Journal of Risk and Reliability</i> (accepted).
+[1] <b>Haoyuan Zhang</b>, D. William R. Marsh, 2017. Generic Bayesian Network Models for Making Maintenance Decisions from Available Data and Expert Knowledge. <i><b>Journal of Risk and Reliability</b></i> (accepted).
 
-<p>[2] Hua Bai, <b>Haoyuan Zhang</b>, 2016. CPN Based Modeling of Tourism Demand Forecasting. <i>International Journal of Business and Management</i>, 12(1), 28. (<i>This paper is an extension of my undergraduate dissertation on colored Petri net-based demand forecasting</i>)</p>
+<p>[2] Hua Bai, <b>Haoyuan Zhang</b>, 2016. CPN Based Modeling of Tourism Demand Forecasting. <i><b>International Journal of Business and Management</b></i>, 12(1), 28. (<i>This paper is an extension of my undergraduate dissertation on colored Petri net-based demand forecasting</i>)</p>
 
    
 <p> &nbsp;</p>
@@ -17,8 +17,8 @@ title: "Publication"
 <hr>
 
 <h3>Conference Paper</h3>
-[1] <b>Haoyuan Zhang</b>, D. William R. Marsh, 2016. <a href="https://qmro.qmul.ac.uk/xmlui/bitstream/handle/123456789/13065/Marsh%20Bayesian%20Network%20Models%20for%20Making%202016%20Accepted.pdf?sequence=1">Bayesian Network Models for Making Maintenance Decisions from Data and Expert Judgment</a>. <i> 
-Risk, Reliability and Safety: Innovating Theory and Practice, European Safety and Reliability Conference 2016 (ESREL 2016)</i>, pp.1056-1063.
+[1] <b>Haoyuan Zhang</b>, D. William R. Marsh, 2016. <a href="https://qmro.qmul.ac.uk/xmlui/bitstream/handle/123456789/13065/Marsh%20Bayesian%20Network%20Models%20for%20Making%202016%20Accepted.pdf?sequence=1">Bayesian Network Models for Making Maintenance Decisions from Data and Expert Judgment</a>. <i><b> 
+Risk, Reliability and Safety: Innovating Theory and Practice, European Safety and Reliability Conference 2016 (ESREL 2016)</b></i>, pp.1056-1063.
 <p> &nbsp;</p>
 
    
