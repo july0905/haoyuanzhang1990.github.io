@@ -9,7 +9,7 @@ title: "Publication"
 <h3> Journal Paper</h3>
 [1] <b>Haoyuan Zhang</b>, D. William R. Marsh, 2017. Generic Bayesian Network Models for Making Maintenance Decisions from Available Data and Expert Knowledge. <i>Journal of Risk and Reliability</i> (accepted).
 
-<p>[2] Hua Bai, <b>Haoyuan Zhang</b>, 2016. CPN Based Modeling of Tourism Demand Forecasting. <i>International Journal of Business and Management</i>, 12(1), 28. (<u>This paper is an extension of my undergraduate dissertation on colored Petri net-based demand forecasting</u>)</p>
+<p>[2] Hua Bai, <b>Haoyuan Zhang</b>, 2016. CPN Based Modeling of Tourism Demand Forecasting. <i>International Journal of Business and Management</i>, 12(1), 28. (<i>This paper is an extension of my undergraduate dissertation on colored Petri net-based demand forecasting</i>)</p>
 
    
 <p> &nbsp;</p>
