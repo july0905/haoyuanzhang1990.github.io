@@ -26,4 +26,4 @@ Risk, Reliability and Safety: Innovating Theory and Practice, European Safety an
 
 
 <h3>Paper In Progress</h3>
-[1] <b>Haoyuan Zhang</b>, D. William R. Marsh. A Framework for Domain Specialists to Create Hierarchical Bayesian Models of Asset Deterioration for Maintenance Decision Support.
+[1] <b>Haoyuan Zhang</b>, D. William R. Marsh. A Framework to Create Hierarchical Bayesian Models for Asset Management.
