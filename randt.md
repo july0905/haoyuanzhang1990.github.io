@@ -7,8 +7,8 @@ title: "Research and Teaching"
 <h3>Research Activity</h3>
 
 <p style="text-align:left;">
-  <u>Rail Research UK Association (RRUKA)</u><span style="float:right;">05 Nov 2015;  03 Nov 2016</span>
-<br><a href="http://www.rruka.org.uk/events/rruka-annual-conference-2015/">RRUKA Annual Conference 2015</a>, and <a href="http://www.rruka.org.uk/events/rruka-annual-conference-2016/">2016</a>, London, UK
+  <u>Rail Research UK Association (RRUKA)</u><span style="float:right;">05 Nov 2015;  03 Nov 2016; 16 Nov 2017</span>
+<br><a href="http://www.rruka.org.uk/events/rruka-annual-conference-2015/">RRUKA Annual Conference 2015</a>, <a href="http://www.rruka.org.uk/events/rruka-annual-conference-2016/">2016</a>, and <a href="http://www.rruka.org.uk/events/rruka-annual-conference-2017/">2017</a> London, UK
 </p> 
 
 
