@@ -21,7 +21,7 @@ title: "Publication"
 Risk, Reliability and Safety: Innovating Theory and Practice, European Safety and Reliability Conference 2016 (ESREL 2016)</i>, pp.1056-1063.
 
 
-<p>[2]<b>Haoyuan Zhang</b>, Hua Bai, 2016. Simulation of Tourism Supply Chain Collaborative Demand Forecast. <i>International Conference on Applied Social Science Research (ICASSR 2015)</i>, pp.659-662.
+<p>[2] <b>Haoyuan Zhang</b>, Hua Bai, 2016. Simulation of Tourism Supply Chain Collaborative Demand Forecast. <i>International Conference on Applied Social Science Research (ICASSR 2015)</i>, pp.659-662.
 </p>
 <p> &nbsp;</p>
 
