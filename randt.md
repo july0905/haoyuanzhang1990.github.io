@@ -13,13 +13,13 @@ title: "Research and Teaching"
 
 
 <p style="text-align:left;">
-  <u>European Safety and Reliability Association</u><span style="float:right;">Sep 2016 - Sep 2016</span>
+  <u>European Safety and Reliability Association</u><span style="float:right;">Sep 2016</span>
 <br><a href="http://esrel2016.org">The 26th European Safety and Reliability Conference(ESREL 2016)</a>, Glasgow, UK
 </p> 
 
 
 <p style="text-align:left;">
-  <u>Workshop by Isaac Newton Institute, University of Cambridge</u><span style="float:right;">Aug 2016 - Sep 2016</span>
+  <u>Workshop by Isaac Newton Institute, University of Cambridge</u><span style="float:right;">Sep 2016</span>
 <br><a href="https://www.newton.ac.uk/event/fosw01">The nature of questions arising in court that can be addressed via probability and statistical methods (FOSW01)</a>, Cambridge, UK
 </p> 
 <br>
